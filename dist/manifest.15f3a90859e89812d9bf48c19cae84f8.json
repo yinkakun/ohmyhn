@@ -1,0 +1,41 @@
+{
+  "icons": [
+    {
+      "src": "icon_512x512.87021a27188f66cd4d6ed1d4993944e0.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_384x384.635f02d51a8651ddc18cb43b8cf43744.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_256x256.b4b454fa31cb9faab697903e204d0b49.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_192x192.a862b78ae6f1883a65fe08ad11d4b00a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_128x128.75c4a107bf954e5cbc6faec3048aa215.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "icon_96x96.3b29a12d0daf5e8b1412373d12c15b80.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ohmyhn",
+  "short_name": "ohmyhn",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "UI client for Hackernews with nested comments and dark theme.",
+  "background_color": "#ffffff"
+}
