@@ -1,10 +1,11 @@
 # ohmyhn
 
-A progressive Web Application. Alternative UI client for Hackernews with nested comments and dark theme. Built with vanilla javascript + redux.
+A progressive Web Application. Dark themed UI client for Hackernews with collapsible comments. Built with vanilla Javascript & Redux.
 
-[ Image screenshot ]
 
-[Live demo](https://ohmyhn.surge.sh)
+[Live demo](https://ohmyhn.netlify.app)
+
+![Screenshot](ohmyhn-screenshot.png)
 
 ## Project setup
 
@@ -17,19 +18,19 @@ git clone https://github.com/awesomeyinka/ohmyhn.git
 ### Install dependencies
 
 ```sh
-npm install
+yarn install
 ```
 
-### Serve in dev mode, with hot reload at localhost:8080
+### Serve in dev mode
 
 ```sh
-npm run dev
+yarn start
 ```
 
 ### Builds for production
 
 ```sh
-npm run build
+yarn build
 ```
 
 ## License
